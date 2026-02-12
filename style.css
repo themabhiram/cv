@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #EDEDCE;
+    color: #0C2C55;
+    text-align: center;
+    font-size:40px;
+    font-family: sans-serif, serif;
+}
+hr{
+    border: 20px dotted #629FAD;
+    border-style: dotted none none none;
+    width: 180px;
+    height: 0px;
+}
+.top_container{
+    position: relative;
+    padding-top: 154px;
+}
+.top_container_h1{
+    font-size: 5rem ;
+    margin-bottom: 0px;
+}
+.top_container_p{
+    margin-top: 6px;
+    font-size: 2rem;
+}
+.middle_container{
+    /* border: 2px solid black; */
+    padding-top: 100px;
+}
+.middle_containers_paras{
+    width: 50%;
+    margin: 50px auto;
+}
+.contact_me_button{
+    text-decoration: none;
+    border: 2px solif gray;
+    background-color: #0C2C55;
+    color: #EDEDCE;
+    display: inline-block;
+    width: 300px;
+    font-size: 32px;
+    padding: 20px 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.contact_me_button:hover{
+    color: #0C2C55;
+    background-color: #c8c817;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+
+}
+.skill-row-para{
+    line-height: 1;
+    margin-top: 0px;
+}
+.skill-row-para_one{
+    /* clear: left; */
+}
+.skill-row-para_two{
+    text-align: right;
+}
+.middle-container-profile-image{
+    height: 200px;
+}
+.middle_container_h2{
+    margin: 0 auto;
+    width: 90%;
+}
+.middle_container_h3_two{
+    text-align: right;
+}
+.middle_container_skill_image_one{
+    height: 150px;
+    float: left;
+    margin-right: 15px;
+    padding-top: 80px;
+    margin-bottom: 35px;
+}
+.middle_container_skill_image_two{
+    height: 150px;
+    float: right;
+    margin-left: 15px;
+    padding-top: 80px;
+    margin-bottom: 35px;
+
+}
+
+.bottom-container{
+    height: 300px;
+    background-color: #629FAD;
+}
+.footer-link{
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 45px;
+}
+a, h3{
+    color: #234C6A;
+}
+h3{
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+.first_cloud_image{
+    height: 200px;
+    position: absolute;
+    right: 200px;
+    top: 60px;
+}
+.second_cloud_image{
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top:300px;
+}
+.mountain_image{
+    height: 700px;
+    padding-top: 100px;
+}
